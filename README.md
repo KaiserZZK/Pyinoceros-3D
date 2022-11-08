@@ -8,8 +8,7 @@ properly installed:
 - `pygame` is used as the graphic user interface for displaying 3D models;
 - `numpy` is used for ease of performing matrix multiplication and transformations;
 - `pyOpenGL` is used for 
-- *disclaimer:* all the parsing, modeling, and mathematical calculation algorithms were implemented locally; all the aforementioned libraries and packages
-are used solely for the purpose of displaying models and standardizing matrix inputs.
+
 ```
 $ pip3 intall pygame
 $ pip3 install numpy
