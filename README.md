@@ -1,4 +1,6 @@
-# Hey! Welcome to 3D Engine (ver. Beta).
+# Hey! Welcome to Pyinoceros-3D (ver. beta).
+
+##### Pyinoceros = Python + Rhinoceros, lul
 
 `Zekai Zhang (zz2919@columbia.edu); latest updated on 11/06/2022`
 
